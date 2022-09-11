@@ -1,8 +1,7 @@
 
 (async function () {
 
-    const BUSINESS_ID = "62024b7c0d36dfc17e75e2bd";
-    // const BUSINESS_ID = "61a749c95eb0a0d5225e4572";
+    const BUSINESS_ID = "6304aa113cb8eba9248eac8d";
     const LOGO = 'logo.webp';
     const HEADER_LOGO_IMAGAE = `https://www.soppiya.com/media/images/${BUSINESS_ID}/business/${LOGO}`;
     const PRIMARY_COLOR = `#1E272E`;
